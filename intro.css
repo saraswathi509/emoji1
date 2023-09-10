@@ -1,0 +1,274 @@
+body{
+	background-color: pink;
+	text-align:center;
+}
+.head{
+	height: 325px;
+	width: 325px;
+	background-color: blue;
+	border-radius: 50%;
+	text-align: center;
+	margin-left: 460px;
+	margin-top: 130px;
+	border:5px solid black;
+}
+.face{
+	height: 250px;
+	width: 250px;
+	background-color: white;
+	border-radius: 50%;
+	margin-left: 40px;
+	margin-top: 70px;
+	position:absolute
+}
+.eye-group{
+	height: 110px;
+	width: 70px;
+	background-color:#e6e6e6;
+	border-radius: 50%;
+	margin-left: 46px;
+	margin-top: -50px;
+	position:absolute
+}
+.eye-1{
+	height: 110px;
+	width: 70px;
+	background-color: #e6e6e6;
+	border-radius: 50%;
+	margin-left: 120px;
+	margin-top: -50px;
+	position:absolute
+}
+.pupil-1{
+	height: 30px;
+	width: 20px;
+	background-color: black;
+	border-radius: 50%;
+	margin-left: 10px;
+	margin-top: 30px;
+	position:absolute;
+}
+.pupil-2{
+	height: 30px;
+	width: 20px;
+	background-color: black;
+	border-radius: 50%;
+	margin-left: 90px;
+	margin-top: -20px;
+	position:absolute;
+}
+.nose{
+	height: 50px;
+	width: 50px;
+	background-color: #ff0000;
+	border-radius: 50%;
+	margin-left: 134px;
+	margin-top: 120px;
+	position:absolute;
+}
+.mouth-line{
+	width: 2px;
+	height: 100px;
+	position:absolute;
+	background-color: black;
+	margin-left: 120px;
+	margin-top: 100px;
+}
+.whisker-right-1{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 150px;
+}
+.whisker-right-2{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 130px;
+}
+.whisker-right-3{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 110px;
+}
+.whisker-left-1{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 140px;
+	margin-top: 150px;
+}
+.whisker-left-2{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left:140px;
+	margin-top: 130px;
+}
+.whisker-left-3{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 140px;
+	margin-top: 110px;
+}
+.smile{
+	width:200px;
+	height: 200px;
+	position:absolute;
+	border-color:transparent;
+	border:2px solid transparent;
+	border-bottom-color: black;
+	border-radius:100%;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+}
+.face{
+	height: 250px;
+	width: 250px;
+	background-color: white;
+	border-radius: 50%;
+	margin-left: 40px;
+	margin-top: 70px;
+	position:absolute
+}
+.eye-group{
+	height: 110px;
+	width: 70px;
+	background-color:#e6e6e6;
+	border-radius: 50%;
+	margin-left: 46px;
+	margin-top: -50px;
+	position:absolute
+}
+.eye-1{
+	height: 110px;
+	width: 70px;
+	background-color: #e6e6e6;
+	border-radius: 50%;
+	margin-left: 120px;
+	margin-top: -50px;
+	position:absolute
+}
+.pupil-1{
+	height: 30px;
+	width: 20px;
+	background-color: black;
+	border-radius: 50%;
+	margin-left: 10px;
+	margin-top: 30px;
+	position:absolute;
+}
+.pupil-2{
+	height: 30px;
+	width: 20px;
+	background-color: black;
+	border-radius: 50%;
+	margin-left: 90px;
+	margin-top: -20px;
+	position:absolute;
+}
+.nose{
+	height: 50px;
+	width: 50px;
+	background-color: #ff0000;
+	border-radius: 50%;
+	margin-left: 134px;
+	margin-top: 120px;
+	position:absolute;
+}
+.mouth-line{
+	width: 2px;
+	height: 100px;
+	position:absolute;
+	background-color: black;
+	margin-left: 120px;
+	margin-top: 100px;
+}
+.whisker-right-1{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 150px;
+}
+.whisker-right-2{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 130px;
+}
+.whisker-right-3{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 30px;
+	margin-top: 110px;
+}
+.whisker-left-1{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 140px;
+	margin-top: 150px;
+}
+.whisker-left-2{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left:140px;
+	margin-top: 130px;
+}
+.whisker-left-3{
+	width:70px;
+	height:2px;
+	position:absolute;
+	background-color: black;
+	margin-left: 140px;
+	margin-top: 110px;
+}
+.smile{
+	width:200px;
+	height: 200px;
+	position:absolute;
+	border-color:transparent;
+	border:2px solid transparent;
+	border-bottom-color: black;
+	border-radius:100%;
+	margin-top: 10px;
+	margin-left: 20px;
+}
+.head{
+	animation-name: box;
+	animation-duration: 20s;
+}
+@keyframes box{
+	0%{background-color: yellow;}
+	25%{background-color: red;}
+	50%{background-color: green;}
+	75%{background-color: skyblue;}
+	100%{background-color: purple;}
+}
+.ani{
+	animation-iteration-count: 3;
+	animation-iteration-direction: reverse;
+	transition-timing-function: ease in;
+	transition:width2s,transition:height2s,transform: 10s;
+}
